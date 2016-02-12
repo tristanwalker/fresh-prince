@@ -1,0 +1,39 @@
+body {
+	background-color: white;
+}
+
+/* This will turn things to grey */
+h1 {
+	background-color: darkgrey;
+}
+
+p {
+	background-color: yellow;
+}
+
+/*p.red {
+	color: blue;
+}
+
+h1.red {
+	color: purple;
+}
+*/
+.red {
+	color: gray;
+}
+
+li {
+	list-style-type: disc;
+}
+
+/*ul {
+	text-align: center;
+	list-style-position: inside;
+}*/
+
+.center {
+    width: 200px;
+    margin: 0 auto;
+    text-align: left;
+}
